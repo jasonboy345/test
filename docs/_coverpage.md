@@ -1,6 +1,6 @@
 ![logo](_media/favicon2.ico)
 
-# docsify <small>4.3.2</small>
+# python <small>02</small>
 
 > A magical documentation site generator.
 
